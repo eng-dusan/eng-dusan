@@ -1,12 +1,12 @@
 # Bem-vindo ao meu perfil!
 
-**🔍 Estudante de Ciências da Computação, em busca constante de desafios e oportunidades que moldem o futuro.**
+**Estudante de Ciências da Computação, sempre em busca de desafios e oportunidades que moldem meu futuro.**
 
 ---
 
 ## Tecnologias e Ferramentas
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
   <img alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,20 +20,19 @@
   <img alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img alt="CSharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="CPlusPlus" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</p>
+</div>
 
 ---
 
 ## Estatísticas do GitHub
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin: 20px 0;">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=eng-dusan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-dusan&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+</div>
 
 ---
 
 ## Contato
 
 Para entrar em contato, envie um e-mail para: [eduarof.csinfosec@gmail.com](mailto:eduarof.csinfosec@gmail.com)
-
