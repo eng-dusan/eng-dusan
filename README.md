@@ -27,8 +27,12 @@
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eng-dusan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-dusan&langs_count=10&theme=dracula&layout=compact" />
+  <div style="display: inline-block; margin: 10px;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=eng-dusan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-dusan&langs_count=10&theme=dracula&layout=compact" />
+  </div>
 </div>
 
 ---
