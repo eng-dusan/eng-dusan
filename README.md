@@ -29,6 +29,7 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin: 20px 0;">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=eng-dusan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-dusan&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-dusan&theme=dracula"/>
 </div>
 
 ---
