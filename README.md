@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil! 🎉
+# Bem-vindo ao meu perfil!
 
 **🔍 Estudante de Ciências da Computação, em busca constante de desafios e oportunidades que moldem o futuro.**
 
@@ -37,8 +37,3 @@
 
 Para entrar em contato, envie um e-mail para: [eduarof.csinfosec@gmail.com](mailto:eduarof.csinfosec@gmail.com)
 
----
-
-### Agradecimentos
-
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e se conectar comigo. 😊
