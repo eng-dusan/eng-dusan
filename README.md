@@ -31,10 +31,10 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-dusan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Ranking das Linguagens
+### Linguagens Mais Utilizadas
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/languages/?username=eng-dusan&layout=compact&theme=dracula"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-dusan&langs_count=10&theme=dracula&layout=compact" />
 </div>
 
 ---
