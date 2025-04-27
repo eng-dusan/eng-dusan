@@ -1,6 +1,6 @@
-# Bem-vindo ao meu perfil!
+# Olá!
 
-**Estudante de Ciências da Computação, sempre em busca de desafios e oportunidades que moldem meu futuro.**
+**Estudante de Ciência da Computação com foco em Forense Digital.**
 
 ---
 
