@@ -38,10 +38,9 @@ Práticas em ambientes controlados com ferramentas forenses e malware de teste
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=edu-fukuda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-fukuda&langs_count=10&theme=dracula&layout=compact" />
-</div>
+![Estatísticas do GitHub](https://seu-usuario.vercel.app/api?username=edu-fukuda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)  
+![Linguagens mais usadas](https://seu-usuario.vercel.app/api/top-langs/?username=edu-fukuda&langs_count=10&theme=dracula&layout=compact)
+
 
 ---
 
