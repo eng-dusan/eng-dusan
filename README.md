@@ -1,7 +1,6 @@
 # Eduardo Fukuda
 
-Estudante de Ciência da Computação (UNIP) – 5º semestre  
-Foco em Computação Forense e Investigação de Sistemas  
+Estudante de Ciência da Computação com foco em Computação Forense e Investigação de Sistemas.  
 Usuário avançado de Linux (Kali, Fedora, Pop!_OS) e Windows  
 Experiência prática com análise de artefatos digitais, Autoruns, SAM, registros USB, logs e execução de arquivos  
 Práticas em ambientes controlados com ferramentas forenses e malware de teste
