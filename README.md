@@ -8,6 +8,23 @@ Práticas em ambientes controlados com ferramentas forenses e malware de teste
 
 ---
 
+## Ferramentas de Investigação Forense
+
+- **RegRipper**  
+- **HiveXsh**  
+- **Autopsy**  
+- **FTK Imager**  
+- **Volatility**  
+- **Wireshark**  
+- **Sysinternals Suite** (Autoruns, Process Explorer, etc.)  
+- **PeStudio**  
+- **X-Ways Forensics**  
+- **Sleuth Kit**  
+- **Plaso** (para análise de logs)  
+- **Kali Linux** (com foco em ferramentas forenses)
+
+---
+
 ## Tecnologias e Ferramentas
 
 <div align="center">
@@ -23,7 +40,7 @@ Práticas em ambientes controlados com ferramentas forenses e malware de teste
 ## GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=edu-fukuda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=edu-fukuda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-fukuda&langs_count=10&theme=dracula&layout=compact" />
 </div>
 
