@@ -21,6 +21,7 @@ Práticas em ambientes controlados com ferramentas forenses e malware de teste
 - **Sleuth Kit**  
 - **Plaso** (para análise de logs)  
 - **Kali Linux** (com foco em ferramentas forenses)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2979006" style='border:none;'></iframe>
 
 ---
 
